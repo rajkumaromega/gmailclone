@@ -16,7 +16,6 @@ Gmail app looks like this when aguest enters
 
 Runs the app in 
 its asks for google authentication
-![Screenshot (112)](https://user-images.githubusercontent.com/43042413/211797166-ccf9a546-2ab6-4d1f-ac52-1c621022adc3.png)
 the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
