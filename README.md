@@ -8,7 +8,16 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Gmail app looks like this when aguest enters
+
+![Screenshot (111)](https://user-images.githubusercontent.com/43042413/211796980-53a7c7a6-7881-422f-8f7f-8e31a937921f.png)
+
+
+
+Runs the app in !
+its asks for google authentication
+[Screenshot (112)](https://user-images.githubusercontent.com/43042413/211797166-ccf9a546-2ab6-4d1f-ac52-1c621022adc3.png)
+the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -27,13 +36,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https:![Screenshot (113)](https://user-images.githubusercontent.com/43042413/211797281-3779c3f9-8e9e-486f-9606-a45fb9ba3d35.png)
+//facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+![Screenshot (114)](https://user-images.githubusercontent.com/43042413/211797323-aab825e1-724e-4b89-992f-80c12b2b161b.png)
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build t!
+[Screenshot (115)](https://user-images.githubusercontent.com/43042413/211797348-de8bb950-8962-4dfa-b5df-bda1c69a482c.png)
+ool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
